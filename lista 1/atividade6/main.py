@@ -45,6 +45,5 @@ def principal():
     curso.removeTurma(t2)
     print(curso.nomesAlunos())
 
-
 if __name__ == "__main__":
     principal()
