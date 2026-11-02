@@ -1,0 +1,5 @@
+Funcionário: Carla
+Cargo: Analista
+Competência: 09/2026
+Salário bruto: R$ 5000.00
+Salário líquido: R$ 5350.00
